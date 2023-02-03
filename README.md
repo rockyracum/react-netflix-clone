@@ -5,6 +5,8 @@ Utiliza informações do [TMDB](https://www.themoviedb.org/) como fonte de dados
 
 App criado com ReactJS e TypeScript, consumo de API através da lib Axios e estilização feita com styled-components, React Router Dom, Vite, entre outros.
 
+[Preview](https://redfire314-netflix.vercel.app/)
+
 <div align="center">
   <img align="center" src="https://i.ibb.co/mXJMq8T/react-netflix-clone.jpg" />
 </div>
