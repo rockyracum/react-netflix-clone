@@ -1,9 +1,9 @@
-# Netflix Clone (ReactJS)
+# Netflix Clone
+Shows to user the latest, popular, top rated movies, detailed movie information and allows search by name.
 
-Mostra ao usuário os filmes em lançamento, popular, mais avaliados, informações detalhadas do filme e pesquisa pelo nome.
-Utiliza informações do [TMDB](https://www.themoviedb.org/) como fonte de dados.
-
-App criado com ReactJS e TypeScript, consumo de API através da lib Axios e estilização feita com styled-components, React Router Dom, Vite, entre outros.
+## Features
+- Data from TMDB
+- App created with Vite react-ts
 
 [Preview](https://redfire314-netflix.vercel.app/)
 
