@@ -20,7 +20,7 @@ Mostra ao usuário os filmes mais recentes, populares e com melhor avaliação, 
 
 <img src="https://i.ibb.co/mXJMq8T/react-netflix-clone.jpg" width="512" />
 
-[Preview](https://redfire314-netflix.vercel.app/)
+[Preview](https://ordanael-netflix.vercel.app/)
 
 ## Execução
 
