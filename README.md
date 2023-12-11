@@ -4,7 +4,7 @@
 
 Mostra ao usuário os filmes mais recentes, populares e com melhor avaliação, informações detalhadas sobre filmes e permite a pesquisa por nome.
 
-[![License](https://img.shields.io/npm/l/react)](https://github.com/ordanael/react-netflix-clone/blob/master/LICENSE) 
+[![License](https://img.shields.io/npm/l/react)](https://github.com/rockyracum/react-netflix-clone/blob/master/LICENSE) 
 
 ## Tecnologias
 
@@ -20,7 +20,7 @@ Mostra ao usuário os filmes mais recentes, populares e com melhor avaliação, 
 
 <img src="https://i.ibb.co/mXJMq8T/react-netflix-clone.jpg" width="512" />
 
-[Preview](https://ordanael-netflix.vercel.app/)
+[Preview](https://rockyracum-netflix.vercel.app/)
 
 ## Execução
 
@@ -30,7 +30,7 @@ Mostra ao usuário os filmes mais recentes, populares e com melhor avaliação, 
 
 ```shell
 # Clonar o repositório git
-git clone https://github.com/ordanael/react-netflix-clone.git
+git clone https://github.com/rockyracum/react-netflix-clone.git
 
 # Entrar na pasta do repositório
 cd react-netflix-clone
